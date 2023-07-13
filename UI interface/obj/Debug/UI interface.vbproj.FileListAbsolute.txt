@@ -1,0 +1,17 @@
+C:\Users\wic0015\Source\Repos\L-d-W\Multi-level-AdvertisingBot\UI interface\bin\Debug\UI interface.exe.config
+C:\Users\wic0015\Source\Repos\L-d-W\Multi-level-AdvertisingBot\UI interface\bin\Debug\UI interface.exe
+C:\Users\wic0015\Source\Repos\L-d-W\Multi-level-AdvertisingBot\UI interface\bin\Debug\UI interface.pdb
+C:\Users\wic0015\Source\Repos\L-d-W\Multi-level-AdvertisingBot\UI interface\bin\Debug\UI interface.xml
+C:\Users\wic0015\Source\Repos\L-d-W\Multi-level-AdvertisingBot\UI interface\obj\Debug\UI interface.vbprojAssemblyReference.cache
+C:\Users\wic0015\Source\Repos\L-d-W\Multi-level-AdvertisingBot\UI interface\obj\Debug\MainWindow.g.vb
+C:\Users\wic0015\Source\Repos\L-d-W\Multi-level-AdvertisingBot\UI interface\obj\Debug\Application.g.vb
+C:\Users\wic0015\Source\Repos\L-d-W\Multi-level-AdvertisingBot\UI interface\obj\Debug\UI interface_MarkupCompile.cache
+C:\Users\wic0015\Source\Repos\L-d-W\Multi-level-AdvertisingBot\UI interface\obj\Debug\UI interface_MarkupCompile.lref
+C:\Users\wic0015\Source\Repos\L-d-W\Multi-level-AdvertisingBot\UI interface\obj\Debug\MainWindow.baml
+C:\Users\wic0015\Source\Repos\L-d-W\Multi-level-AdvertisingBot\UI interface\obj\Debug\UI interface.g.resources
+C:\Users\wic0015\Source\Repos\L-d-W\Multi-level-AdvertisingBot\UI interface\obj\Debug\UI_interface.Resources.resources
+C:\Users\wic0015\Source\Repos\L-d-W\Multi-level-AdvertisingBot\UI interface\obj\Debug\UI interface.vbproj.GenerateResource.cache
+C:\Users\wic0015\Source\Repos\L-d-W\Multi-level-AdvertisingBot\UI interface\obj\Debug\UI interface.vbproj.CoreCompileInputs.cache
+C:\Users\wic0015\Source\Repos\L-d-W\Multi-level-AdvertisingBot\UI interface\obj\Debug\UI interface.exe
+C:\Users\wic0015\Source\Repos\L-d-W\Multi-level-AdvertisingBot\UI interface\obj\Debug\UI interface.xml
+C:\Users\wic0015\Source\Repos\L-d-W\Multi-level-AdvertisingBot\UI interface\obj\Debug\UI interface.pdb
