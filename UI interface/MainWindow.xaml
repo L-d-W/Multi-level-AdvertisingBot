@@ -8,11 +8,12 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
 		<Grid.ColumnDefinitons>
-			
+			<Grid.Column/>
+			<Grid.Column/>
 		</Grid.ColumnDefinitons>
 			
 			
-	
+		
 		
     </Grid>
 	

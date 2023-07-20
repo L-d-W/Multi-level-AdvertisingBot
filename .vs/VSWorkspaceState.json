@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\UI interface"
+    "\\UI interface",
+    "\\UI interface\\bin",
+    "\\UI interface\\My Project",
+    "\\UI interface\\My Project\\MyExtensions",
+    "\\UI interface\\obj"
   ],
   "SelectedNode": "\\UI interface\\MainWindow.xaml",
   "PreviewInSolutionExplorer": false
