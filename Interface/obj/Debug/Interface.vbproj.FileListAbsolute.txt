@@ -1,0 +1,16 @@
+C:\Users\wic0015\Source\Repos\L-d-W\Multi-level-AdvertisingBot\Interface\bin\Debug\WpfApp1.exe.config
+C:\Users\wic0015\Source\Repos\L-d-W\Multi-level-AdvertisingBot\Interface\bin\Debug\WpfApp1.exe
+C:\Users\wic0015\Source\Repos\L-d-W\Multi-level-AdvertisingBot\Interface\bin\Debug\WpfApp1.pdb
+C:\Users\wic0015\Source\Repos\L-d-W\Multi-level-AdvertisingBot\Interface\bin\Debug\WpfApp1.xml
+C:\Users\wic0015\Source\Repos\L-d-W\Multi-level-AdvertisingBot\Interface\obj\Debug\MainWindow.g.vb
+C:\Users\wic0015\Source\Repos\L-d-W\Multi-level-AdvertisingBot\Interface\obj\Debug\Application.g.vb
+C:\Users\wic0015\Source\Repos\L-d-W\Multi-level-AdvertisingBot\Interface\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\wic0015\Source\Repos\L-d-W\Multi-level-AdvertisingBot\Interface\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\wic0015\Source\Repos\L-d-W\Multi-level-AdvertisingBot\Interface\obj\Debug\MainWindow.baml
+C:\Users\wic0015\Source\Repos\L-d-W\Multi-level-AdvertisingBot\Interface\obj\Debug\WpfApp1.g.resources
+C:\Users\wic0015\Source\Repos\L-d-W\Multi-level-AdvertisingBot\Interface\obj\Debug\WpfApp1.Resources.resources
+C:\Users\wic0015\Source\Repos\L-d-W\Multi-level-AdvertisingBot\Interface\obj\Debug\Interface.vbproj.GenerateResource.cache
+C:\Users\wic0015\Source\Repos\L-d-W\Multi-level-AdvertisingBot\Interface\obj\Debug\Interface.vbproj.CoreCompileInputs.cache
+C:\Users\wic0015\Source\Repos\L-d-W\Multi-level-AdvertisingBot\Interface\obj\Debug\WpfApp1.exe
+C:\Users\wic0015\Source\Repos\L-d-W\Multi-level-AdvertisingBot\Interface\obj\Debug\WpfApp1.xml
+C:\Users\wic0015\Source\Repos\L-d-W\Multi-level-AdvertisingBot\Interface\obj\Debug\WpfApp1.pdb
