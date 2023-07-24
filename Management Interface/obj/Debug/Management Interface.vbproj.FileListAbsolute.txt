@@ -1,0 +1,17 @@
+C:\Users\wic0015\Source\Repos\L-d-W\Multi-level-AdvertisingBot\Management Interface\bin\Debug\Management Interface.exe.config
+C:\Users\wic0015\Source\Repos\L-d-W\Multi-level-AdvertisingBot\Management Interface\bin\Debug\Management Interface.exe
+C:\Users\wic0015\Source\Repos\L-d-W\Multi-level-AdvertisingBot\Management Interface\bin\Debug\Management Interface.pdb
+C:\Users\wic0015\Source\Repos\L-d-W\Multi-level-AdvertisingBot\Management Interface\bin\Debug\Management Interface.xml
+C:\Users\wic0015\Source\Repos\L-d-W\Multi-level-AdvertisingBot\Management Interface\obj\Debug\Management Interface.vbprojAssemblyReference.cache
+C:\Users\wic0015\Source\Repos\L-d-W\Multi-level-AdvertisingBot\Management Interface\obj\Debug\MainWindow.g.vb
+C:\Users\wic0015\Source\Repos\L-d-W\Multi-level-AdvertisingBot\Management Interface\obj\Debug\Application.g.vb
+C:\Users\wic0015\Source\Repos\L-d-W\Multi-level-AdvertisingBot\Management Interface\obj\Debug\Management Interface_MarkupCompile.cache
+C:\Users\wic0015\Source\Repos\L-d-W\Multi-level-AdvertisingBot\Management Interface\obj\Debug\Management Interface_MarkupCompile.lref
+C:\Users\wic0015\Source\Repos\L-d-W\Multi-level-AdvertisingBot\Management Interface\obj\Debug\MainWindow.baml
+C:\Users\wic0015\Source\Repos\L-d-W\Multi-level-AdvertisingBot\Management Interface\obj\Debug\Management Interface.g.resources
+C:\Users\wic0015\Source\Repos\L-d-W\Multi-level-AdvertisingBot\Management Interface\obj\Debug\Management_Interface.Resources.resources
+C:\Users\wic0015\Source\Repos\L-d-W\Multi-level-AdvertisingBot\Management Interface\obj\Debug\Management Interface.vbproj.GenerateResource.cache
+C:\Users\wic0015\Source\Repos\L-d-W\Multi-level-AdvertisingBot\Management Interface\obj\Debug\Management Interface.vbproj.CoreCompileInputs.cache
+C:\Users\wic0015\Source\Repos\L-d-W\Multi-level-AdvertisingBot\Management Interface\obj\Debug\Management Interface.exe
+C:\Users\wic0015\Source\Repos\L-d-W\Multi-level-AdvertisingBot\Management Interface\obj\Debug\Management Interface.xml
+C:\Users\wic0015\Source\Repos\L-d-W\Multi-level-AdvertisingBot\Management Interface\obj\Debug\Management Interface.pdb
